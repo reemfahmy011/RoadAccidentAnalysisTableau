@@ -1,5 +1,5 @@
 # Road Accident Analysis Tableau
-The Road Accident Analysis Dashboard is a comprehensive visual tool designed to provide insights and facilitate informed decision-making regarding road safety measures. Developed using Power BI, this dashboard amalgamates data from a Kaggle data set to offer a holistic view of road accidents, their causes, and associated trends.
+The Road Accident Analysis Dashboard is a comprehensive visual tool designed to provide insights and facilitate informed decision-making regarding road safety measures. Developed using Tableau, this dashboard amalgamates data from a Kaggle data set to offer a holistic view of road accidents, their causes, and associated trends. The dashbaord utilizes a variety of key performance indicators (KPIs) to gauge the severity and ramifications of traffic accidents. These metrics encompass the total count of casualties categorized by the severity of the accidents, vehicle types involved, road classifications, and additional contributing factors.
 
 ![Image Description](Dashboard1.png)
 
